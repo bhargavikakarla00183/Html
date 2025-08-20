@@ -1,0 +1,50 @@
+button{
+    /* padding-top: 15px; */
+     margin: 20px;
+}
+
+.first{
+    background-color: rgb(205, 236, 118);
+  color: rgb(29, 28, 28);
+  border: 2px solid black;
+  margin: 5px;
+  padding: 10px;
+}
+.second{
+  background-color: rgb(241, 154, 202);
+  color: rgb(29, 28, 28);
+  border: 2px solid black;
+  margin: 5px;
+  padding: 10px;
+}
+.third{
+  background-color: rgb(185, 236, 243);
+  color: rgb(29, 28, 28);
+  border: 2px solid black;
+  margin: 5px;
+  padding: 10px;
+}
+div:hover{
+  background-color: rgb(230, 174, 129);
+  color:azure;
+  border:2px rgb(101, 222, 226);
+  font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  cursor: pointer;
+}
+button{
+    align-items: center;
+    text-decoration: none;
+    text-decoration-line: none;
+      
+
+}
+a{
+    text-decoration: none;
+}
+.one{
+    text-align: center;
+    background-color: rgb(247, 214, 219);
+    background-image: url('back.jpg');
+    background-size: cover;
+
+}
